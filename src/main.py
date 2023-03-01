@@ -2,6 +2,16 @@ def add(a, b):
     return a + b
 
 
+def min(a, b):
+    """
+    some content
+    :param a:
+    :param b:
+    :return:
+    """
+    return a - b
+
+
 def say_hello():
     print("hello world!")
 
